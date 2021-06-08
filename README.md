@@ -1,4 +1,4 @@
-# thesis-ecs-codes
+# Enhanced Cuckoo Search - Node Localisation (ECS-NL)
 These are various versions of the ECS algorithm (Written in Python). <br/>
 <b>You're looking for "ecs-basecode.ipynb".</b>
 
